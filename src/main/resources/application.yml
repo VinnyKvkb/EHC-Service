@@ -1,0 +1,5 @@
+logging:
+  level:    com.trezi.userservice: info
+    org.springframework.web: error
+    org.springframework.security: error
+  file:    name: ehc.log         path: /logs/ehc.log
